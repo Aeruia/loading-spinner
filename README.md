@@ -1,1 +1,2 @@
-# loading-spinner
+# Simple loading spinner
+## HTML/CSS
